@@ -1,0 +1,27 @@
+########################################################################
+#    .     __  __           _                _              _ _ _      #
+#    /\\  |  \/  |         | |              | |            \ \ \ \     #
+#  ( ( ) | \  / | ___   __| | ___ _ __ __ _| |_ ___  _ __  \ \ \ \     #
+#   \\/  | |\/| |/ _ \ / _` |/ _ \ '__/ _` | __/ _ \| '__|  ) ) ) )    #
+#    '   | |  | | (_) | (_| |  __/ | | (_| | || (_) | |    / / / /     #
+#        |_|  |_|\___/ \__,_|\___|_|  \__,_|\__\___/|_|   /_/_/_/      #
+#  =================================================================   #
+#                                                                      #
+#    This is the config file for Moderator a discord bot by toadless.  #
+#                Each field is documented correctly.                   #
+#                                                                      #
+########################################################################
+
+# The bot config
+bot:
+  # The discord bots token so that we can login to the bot
+  token: 'BOT_TOKEN'
+  # Your owner id.
+  ownerId: 'OWNER_ID'
+
+# The default prefix that you want your bot to have
+default_prefix: '!'
+# The database url
+database: 'DATABASE_URL'
+# The bots embed color
+color: 'd7ae4d' # Leave this default
